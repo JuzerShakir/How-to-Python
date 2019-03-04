@@ -5,10 +5,15 @@
 **Q.**  Output *'Hello World'* to the screen. 
 <br>
 <br>
-<br>
 
 **Code.**
 <br>
 
 ![Code for Hello World](https://i.imgur.com/ABnhejs.png)
 
+<br>
+<br>
+
+**Output.**
+
+![Answer to 1st question](https://i.imgur.com/kfgKGOT.png)

@@ -2,8 +2,7 @@
 *For beginners on the road to expert!*
 
 ###  001. Hello World
-**Q.**  Output *'Hello World'* to the screen. 
-<br>
+::**Q.**  Output *'Hello World'* to the screen.::
 <br>
 
 **Code.**
@@ -11,7 +10,6 @@
 
 ![Code for Hello World](https://i.imgur.com/ABnhejs.png)
 
-<br>
 <br>
 
 **Output.**

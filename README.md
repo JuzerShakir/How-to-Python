@@ -37,7 +37,7 @@
 
 *Code.*
 
-![Code for Gross Pay]()
+![Code for Gross Pay](https://i.imgur.com/ozCYvYd.png)
 
 <br>
 
@@ -53,7 +53,7 @@
 
 *Code.*
 
-![Code for Conditions]()
+![Code for Conditions](https://i.imgur.com/gYQxFVb.png)
 
 <br>
 
@@ -69,7 +69,7 @@
 
 *Code.*
 
-![Code for Try Except]()
+![Code for Try Except](https://i.imgur.com/5XkzjeI.png)
 
 <br>
 
@@ -85,7 +85,7 @@
 
 *Code.*
 
-![Code for Try Except 2]()
+![Code for Try Except 2](https://i.imgur.com/2Gxg853.png)
 
 <br>
 
@@ -101,7 +101,7 @@
 
 *Code.*
 
-![Code for Functions]()
+![Code for Functions](https://i.imgur.com/DSu9qjX.png)
 
 <br>
 
@@ -117,7 +117,7 @@
 
 *Code.*
 
-![Code for Functions 2]()
+![Code for Functions 2](https://i.imgur.com/3AsehCR.png)
 
 <br>
 
@@ -133,7 +133,7 @@
 
 *Code.*
 
-![Code for Loop]()
+![Code for Loop](https://i.imgur.com/CttKiRB.png)
 
 <br>
 
@@ -149,7 +149,7 @@
 
 *Code.*
 
-![Code for Loop 2]()
+![Code for Loop 2](https://i.imgur.com/EckOUBw.png)
 
 <br>
 
@@ -165,7 +165,7 @@
 
 *Code.*
 
-![Code for String]()
+![Code for String](https://i.imgur.com/HZpjZcS.png)
 
 <br>
 
@@ -181,7 +181,7 @@
 
 *Code.*
 
-![Code for File]()
+![Code for File](https://i.imgur.com/MylFIIG.png)
 
 <br>
 
@@ -197,7 +197,7 @@
 
 *Code.*
 
-![Code for File 2]()
+![Code for File 2](https://i.imgur.com/OQodMYp.png)
 
 <br>
 
@@ -213,7 +213,7 @@
 
 *Code.*
 
-![Code for List]()
+![Code for List](https://i.imgur.com/C8Wwk7H.png)
 
 <br>
 
@@ -229,7 +229,7 @@
 
 *Code.*
 
-![Code for Dictionary]()
+![Code for Dictionary](https://i.imgur.com/dduRO1m.png)
 
 <br>
 
@@ -245,7 +245,7 @@
 
 *Code.*
 
-![Code for Tuples]()
+![Code for Tuples](https://i.imgur.com/csRPYqd.png)
 
 <br>
 
@@ -255,18 +255,33 @@
 
 ---
 
-### 017. Expression
+### 017. Expression - Sum
 **Q.**
 <br>
 
 *Code.*
 
-![Code for Expression]()
+![Code for Expression - Sum](https://i.imgur.com/2NrCPeU.png)
+<br>
+
+**Output.**
+
+![Output for Expression - Sum]()
+
+---
+
+### 017. Expression - Email
+**Q.**
+<br>
+
+*Code.*
+
+![Code for Expression - Email](https://i.imgur.com/sLw3Fca.png)
 
 <br>
 
 **Output.**
 
-![Output for Expression]()
+![Output for Expression - Email]()
 
 ---

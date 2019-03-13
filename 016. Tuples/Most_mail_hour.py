@@ -32,3 +32,5 @@ for line in file:
 sorted_counts = sorted(counts.items())
 
 print(sorted_counts)
+
+# THE END

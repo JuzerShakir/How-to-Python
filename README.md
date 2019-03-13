@@ -14,7 +14,6 @@
 
 **Output.**
 
-![Answer to 1st question](https://i.imgur.com/kfgKGOT.png)
-
+![Answer to 1st question](https://i.imgur.com/iWgOyd0.png)
 ---
 

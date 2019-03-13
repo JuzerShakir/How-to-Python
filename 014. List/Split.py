@@ -31,3 +31,5 @@ for line in r_file:
 # sorting list alphabetically
 list_of_words.sort()
 print(list_of_words)
+
+# THE END

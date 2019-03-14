@@ -16,7 +16,7 @@
 ---
 
 ###  002. Hello User
-**Q.**
+**Q. Greet *'Hello'* with *user's name.* **
 <br>
 
 *Code.*
@@ -32,7 +32,7 @@
 ---
 
 ### 003. Gross Pay
-**Q.**
+**Q. Write a program to prompt user for hours and rate per hour to compute their gross pay.**
 <br>
 
 *Code.*
@@ -48,7 +48,7 @@
 ---
 
 ### 004. Conditions
-**Q.**
+**Q. Rewrite your pay computation *(Exercise 3)* to give the employee 1.5 times the hourly rate for hours worked above 40 hours.**
 <br>
 
 *Code.*
@@ -64,7 +64,7 @@
 ---
 
 ### 005. Try Except
-**Q.**
+**Q. Rewrite your pay program *(Exercise 4)* using try and except so that your program handles non-numeric input gracefully by printing a message and exiting the program.**
 <br>
 
 *Code.*
@@ -80,7 +80,17 @@
 ---
 
 ### 006. Try Except 2
-**Q.**
+**Q. Write a program to prompt for a score between 0.0 and 1.0. If the score is out of range, print an error message.<br>
+If the score is between 0.0 and 1.0, print a grade using the following table:**
+
+| **Score** |  **Grade** |
+| --------- | ---------- |
+| **>=0.9** |  A         |
+| **>=0.8** |  B         |
+| **>=0.7** |  C         |
+| **>=0.6** |  D         |
+| **< 0.6** |  F         |
+
 <br>
 
 *Code.*
@@ -96,7 +106,7 @@
 ---
 
 ### 007. Functions
-**Q.**
+**Q. Rewrite your pay computation *(Exercise 5)* and create a function called *'computepay'* which takes two parameters (hours and rate).**
 <br>
 
 *Code.*
@@ -112,7 +122,7 @@
 ---
 
 ### 008. Functions 2
-**Q.**
+**Q. Rewrite grading program *(Exercise 6)* using function named *'computegrade'*.**
 <br>
 
 *Code.*
@@ -128,7 +138,7 @@
 ---
 
 ### 009. Loop
-**Q.**
+**Q. Write a program which repeatedly reads numbers until the user inputs *"done"*. Once *"done"* is entered, print out the *total, count, and average* of the *input numbers*. If the user enters anything other than a number,  detect their mistake using try and except and print an error message and skip to the next number.**
 <br>
 
 *Code.*
@@ -144,7 +154,7 @@
 ---
 
 ### 010. Loop 2
-**Q.**
+**Q. Similar to *Exercise 9*, only output a minimum and a maximum number inputted by the user.**
 <br>
 
 *Code.*
@@ -160,7 +170,9 @@
 ---
 
 ### 011. String
-**Q.**
+**Q. Use *'find'* and *string slicing* to extract the portion of the string after the colon character and then use the float function to convert the extracted string into a floating point number.**<br>
+*str = 'X-DSPAM-Confidence: 0.8475'*
+    
 <br>
 
 *Code.*
@@ -176,7 +188,7 @@
 ---
 
 ### 012. File
-**Q.**
+**Q. Write a program to read through a file *[mbox-short.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/012.%20File/mbox-short.txt)* and print the contents of the file (line by line) all in upper case.**
 <br>
 
 *Code.*
@@ -192,7 +204,12 @@
 ---
 
 ### 013. File 2
-**Q.**
+**Q. Write a program to read through the file [mbox-short.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/013.%20File%202/mbox-short.txt) and look for lines of the form:**<br>
+
+*X-DSPAM-Confidence: 0.8475* <br>
+
+**When you encounter a line that starts with *"X-DSPAM-Confidence:"* pull apart the line to extract the floating-point number from that line. Count number of occurances on the file and then compute the total of the spam confidence values from these lines. Also print out the average spam confidence values.**
+
 <br>
 
 *Code.*
@@ -208,7 +225,8 @@
 ---
 
 ### 04. List
-**Q.**
+**Q.  Write a program to open the file *[romeo.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/014.%20List/romeo.txt) * and read it line by line.**<br>
+**For each line, split the line into a list of words using the *'split'* function. For each word, check to see if the word is already in a list. If the word is not in the list, add it to the list. When the program completes, sort and print the resulting words in alphabetical order.**
 <br>
 
 *Code.*
@@ -224,7 +242,9 @@
 ---
 
 ### 015. Dictionary
-**Q.**
+**Q. Write a program to read through a mail log from *[mbox-short.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/015.%20Dictionary/mbox-short.txt)*  file, line starting with *'From'*. Build a histogram using a dictionary to count how many messages have come from each email address.** <br>
+
+**Look through the dictionary using loop to find who has the most messages and print how many messages the person has.**
 <br>
 
 *Code.*
@@ -240,7 +260,8 @@
 ---
 
 ### 016. Tuples
-**Q.**
+**Q. Write a program that counts the distribution of the hour of the day for each of the messages in the *[mbox-short.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/016.%20Tuples/mbox-short.txt)* file. You can pull the hour from the *'From'* line by finding the time string and then splitting that string into parts using the colon character.**<br>
+**Once you have accumulated the counts for each hour, print out the counts, one per line, sorted by hour.**
 <br>
 
 *Code.*
@@ -256,7 +277,7 @@
 ---
 
 ### 017. Expression - Sum
-**Q.**
+**Q. Sum up all *'X-DSPAM-Confidence'* values from *[mbox.txt](https://raw.githubusercontent.com/JuzerShakir/How-to-Python/master/017.%20Expression/mbox.txt)* file.**
 <br>
 
 *Code.*
@@ -271,7 +292,7 @@
 ---
 
 ### 017. Expression - Email
-**Q.**
+**Q. Write a program similar to *Exercise 15* but ragardless of whether the line starts from *'From'* on *[mbox.txt](https://raw.githubusercontent.com/JuzerShakir/How-to-Python/master/017.%20Expression/mbox.txt)* file.**
 <br>
 
 *Code.*

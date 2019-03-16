@@ -292,7 +292,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 ---
 
 ### 017. Expression - Email
-**Q. Write a program similar to *[Exercise 15](#015.-dictionary)* but ragardless of whether the line starts from *'From'* on *[mbox.txt](https://raw.githubusercontent.com/JuzerShakir/How-to-Python/master/017.%20Expression/mbox.txt)* file.**
+**Q. Write a program similar to *[Exercise 15](#015-dictionary)* but regardless of whether the line starts from *'From'* on *[mbox.txt](https://raw.githubusercontent.com/JuzerShakir/How-to-Python/master/017.%20Expression/mbox.txt)* file.**
 <br>
 
 *Code.*

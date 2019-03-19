@@ -1,5 +1,33 @@
+
+
 # Guide on how to code in Python.
 *For beginners on the road to expert!*
+
+## Table of Contents
+
+- [Exercise 1](#001-hello-world)
+- [Exercise 2](#002-hello-user)
+- [Exercise 3](#003-gross-pay)
+- [Exercise 4](#004-conditions)
+- [Try Except](#005-try-except)
+  - [Exercise 5](#005-try-except)
+  - [Exercise 6](#006-try-except-2)
+- [Functions](#007-functions)
+  - [Exercise 7](#007-functions)
+  - [Exercise 8](#008-functions-2)
+- [Loop](#009-loop)
+  - [Exercise 9](#009-loop)
+  - [Exercise 10](#010-loop-2)
+- [Exercise 11](#011-string)
+- [File](#012-file)
+  - [Exercise 12](#012-file)
+  - [Exercise 13](#013-file-2)
+- [Exercise 14](#014-list)
+- [Exercise 15](#015-dictionary)
+- [Exercise 16](#016-tuples)
+- [Expressions](#017-expression-sum)
+  - [Exercise 17](#017-expression-sum)
+  - [Exercise 18](#017-expression-email)
 
 ###  001. Hello World
 **Q.  Output *'Hello World'* to the screen.**

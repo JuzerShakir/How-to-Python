@@ -25,9 +25,11 @@
 - [Exercise 14](#014-list)
 - [Exercise 15](#015-dictionary)
 - [Exercise 16](#016-tuples)
-- [Expressions](#017-expression-sum)
-  - [Exercise 17](#017-expression-sum)
-  - [Exercise 18](#017-expression-email)
+- [Expressions](#017-sum)
+  - [Exercise 17](#017-sum)
+  - [Exercise 18](#017-email)
+
+----
 
 ###  001. Hello World
 **Q.  Output *'Hello World'* to the screen.**
@@ -304,7 +306,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ---
 
-### 017. Expression - Sum
+### 017. Sum
 **Q. Sum up all *'X-DSPAM-Confidence'* values from *[mbox.txt](https://raw.githubusercontent.com/JuzerShakir/How-to-Python/master/017.%20Expression/mbox.txt)* file.**
 <br>
 
@@ -319,7 +321,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ---
 
-### 017. Expression - Email
+### 017. Email
 **Q. Write a program similar to *[Exercise 15](#015-dictionary)* but regardless of whether the line starts from *'From'* on *[mbox.txt](https://raw.githubusercontent.com/JuzerShakir/How-to-Python/master/017.%20Expression/mbox.txt)* file.**
 <br>
 

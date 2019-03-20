@@ -46,7 +46,7 @@
 ---
 
 ###  2. Hello User
-**Q. Greet *'Hello'* with *user's name.***
+**Q. Greet *'Hello'* to the user with *it's name.***
 <br>
 
 *Code.*

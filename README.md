@@ -317,7 +317,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 **Output.**
 
-![Output for Expression - Sum]()
+![Output for Sum]()
 
 ---
 
@@ -333,6 +333,6 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 **Output.**
 
-![Output for Expression - Email]()
+![Output for Email]()
 
 ---

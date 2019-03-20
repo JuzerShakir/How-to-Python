@@ -15,9 +15,9 @@
 - [Functions](#functions)
   - [Exercise 7](#7-gross-pay)
   - [Exercise 8](#8-grading-system)
-- [Loop](#9-loop)
-  - [Exercise 9](#9-loop)
-  - [Exercise 10](#10-loop-2)
+- [Loop](#loop)
+  - [Exercise 9](#9-compute-input)
+  - [Exercise 10](#10-min-and-max)
 - [Exercise 11](#11-string)
 - [File](#12-file)
   - [Exercise 12](#12-file)
@@ -169,7 +169,8 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ---
 
-### 9. Loop
+### Loop
+#### 9. Compute Input
 **Q. Write a program which repeatedly reads numbers until the user inputs *"done"*. Once *"done"* is entered, print out the *total, count, and average* of the *input numbers*. If the user enters anything other than a number,  detect their mistake using try and except and print an error message and skip to the next number.**
 <br>
 
@@ -183,9 +184,10 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ![Output for Loop]()
 
+
 ---
 
-### 10. Loop 2
+#### 10. Min & Max
 **Q. Similar to *[Exercise 9](#009-loop)*, only output a minimum and a maximum number inputted by the user.**
 <br>
 

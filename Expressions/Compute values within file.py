@@ -2,6 +2,7 @@
 
 """ Suming up all 'X-DSPAM-Confidence' values from 'mbox.txt' file """
 
+# needed for extratcing texts from strings
 import re
 
 file_name = input('Enter file name: ')

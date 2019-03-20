@@ -78,7 +78,7 @@
 ---
 
 ### 4. Gross Pay with Conditions
-**Q. Rewrite your pay computation *([Exercise 3](#003-gross-pay))* to give the employee 1.5 times the hourly rate for hours worked above 40 hours.**
+**Q. Rewrite your pay computation *([Exercise 3](#3-compute-gross-pay))* to give the employee 1.5 times the hourly rate for hours worked above 40 hours.**
 <br>
 
 *Code.*
@@ -95,7 +95,7 @@
 
 ### Try Except
 #### 5. Gross Pay
-**Q. Rewrite your pay program *([Exercise 4](#004-conditions))* using try and except so that your program handles non-numeric input gracefully by printing a message and exiting the program.**
+**Q. Rewrite your pay program *([Exercise 4](#4-gross-pay-with-conditions))* using try and except so that your program handles non-numeric input gracefully by printing a message and exiting the program.**
 <br>
 
 *Code.*
@@ -138,7 +138,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ### Functions
 #### 7. Gross Pay
-**Q. Rewrite your pay computation *([Exercise 5](#005-try-except))* and create a function called *'computepay'* which takes two parameters (hours and rate).**
+**Q. Rewrite your pay computation *([Exercise 5](#5-gross-pay))* and create a function called *'computepay'* which takes two parameters (hours and rate).**
 <br>
 
 *Code.*
@@ -154,7 +154,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 ---
 
 #### 8. Grading System
-**Q. Rewrite grading program *([Exercise 6](#006-try-except-2))* using function named *'computegrade'*.**
+**Q. Rewrite grading program *([Exercise 6](#6-grading-system))* using function named *'computegrade'*.**
 <br>
 
 *Code.*
@@ -188,7 +188,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 ---
 
 #### 10. Min and Max
-**Q. Similar to *[Exercise 9](#009-loop)*, only output a minimum and a maximum number inputted by the user.**
+**Q. Similar to *[Exercise 9](#9-compute-input)*, only output a minimum and a maximum number inputted by the user.**
 <br>
 
 *Code.*
@@ -328,7 +328,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 ---
 
 #### 18. Highest Emails
-**Q. Write a program similar to *[Exercise 15](#015-dictionary)* but regardless of whether the line starts from *'From'* on *[mbox.txt](https://raw.githubusercontent.com/JuzerShakir/How-to-Python/master/017.%20Expression/mbox.txt)* file.**
+**Q. Write a program similar to *[Exercise 15](#15-dictionary)* but regardless of whether the line starts from *'From'* on *[mbox.txt](https://raw.githubusercontent.com/JuzerShakir/How-to-Python/master/017.%20Expression/mbox.txt)* file.**
 <br>
 
 *Code.*

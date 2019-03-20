@@ -7,11 +7,11 @@
 
 - [Exercise 1](#1-hello-world)
 - [Exercise 2](#2-hello-user)
-- [Exercise 3](#3-gross-pay)
+- [Exercise 3](#3-simple-gross-pay)
 - [Exercise 4](#4-conditions)
-- [Try Except](#5-try-except)
-  - [Exercise 5](#5-try-except)
-  - [Exercise 6](#6-try-except-2)
+- [Try Except](#try-except)
+  - [Exercise 5](#5-gross-pay)
+  - [Exercise 6](#6-grading)
 - [Functions](#7-functions)
   - [Exercise 7](#7-functions)
   - [Exercise 8](#8-functions-2)
@@ -61,7 +61,7 @@
 
 ---
 
-### 3. Gross Pay
+### 3. Simple Gross Pay
 **Q. Write a program to prompt user for hours and rate per hour to compute their gross pay.**
 <br>
 
@@ -77,7 +77,7 @@
 
 ---
 
-### 4. Conditions
+### 4. Gross Pay with conditions
 **Q. Rewrite your pay computation *([Exercise 3](#003-gross-pay))* to give the employee 1.5 times the hourly rate for hours worked above 40 hours.**
 <br>
 
@@ -93,7 +93,8 @@
 
 ---
 
-### 5. Try Except
+### Try Except
+#### 5. Gross Pay
 **Q. Rewrite your pay program *([Exercise 4](#004-conditions))* using try and except so that your program handles non-numeric input gracefully by printing a message and exiting the program.**
 <br>
 
@@ -109,7 +110,7 @@
 
 ---
 
-### 6. Try Except 2
+#### 6. Grading
 **Q. Write a program to prompt for a score between 0.0 and 1.0. If the score is out of range, print an error message.<br>
 If the score is between 0.0 and 1.0, print a grade using the following table:**
 

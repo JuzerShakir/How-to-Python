@@ -59,6 +59,8 @@
 
 ![Output for Hello User]()
 
+*[Back to Top](#table-of-contents)*
+
 ---
 
 ### 3. Compute Gross Pay
@@ -90,6 +92,8 @@
 **Output.**
 
 ![Output for Gross Pay with Conditions]()
+
+*[Back to Top](#table-of-contents)*
 
 ---
 
@@ -134,6 +138,8 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ![Output for Grading System]()
 
+*[Back to Top](#table-of-contents)*
+
 ---
 
 ### Functions
@@ -164,6 +170,8 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 <br>
 
 **Output.**
+
+*[Back to Top](#table-of-contents)*
 
 ![Output for Grading System]()
 
@@ -201,6 +209,8 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ![Output for Min and Max]()
 
+*[Back to Top](#table-of-contents)*
+
 ---
 
 ### 11. String
@@ -233,6 +243,8 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 <br>
 
 **Output.**
+
+*[Back to Top](#table-of-contents)*
 
 ![Output for Print text from file]()
 
@@ -274,6 +286,8 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ![Output for List]()
 
+*[Back to Top](#table-of-contents)*
+
 ---
 
 ### 15. Dictionary
@@ -309,6 +323,8 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ![Output for Tuples]()
 
+*[Back to Top](#table-of-contents)*
+
 ---
 
 ### Expressions
@@ -340,5 +356,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 **Output.**
 
 ![Output for Highest Emails]()
+
+*[Back to Top](#table-of-contents)*
 
 ---

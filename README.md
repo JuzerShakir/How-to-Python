@@ -7,14 +7,14 @@
 
 - [Exercise 1](#1-hello-world)
 - [Exercise 2](#2-hello-user)
-- [Exercise 3](#3-simple-gross-pay)
-- [Exercise 4](#4-conditions)
+- [Exercise 3](#3-compute-gross-pay)
+- [Exercise 4](#4-gross-pay-with-conditions)
 - [Try Except](#try-except)
   - [Exercise 5](#5-gross-pay)
-  - [Exercise 6](#6-grading)
-- [Functions](#7-functions)
-  - [Exercise 7](#7-functions)
-  - [Exercise 8](#8-functions-2)
+  - [Exercise 6](#6-grading-system)
+- [Functions](#functions)
+  - [Exercise 7](#7-gross-pay)
+  - [Exercise 8](#8-grading-system)
 - [Loop](#9-loop)
   - [Exercise 9](#9-loop)
   - [Exercise 10](#10-loop-2)
@@ -61,7 +61,7 @@
 
 ---
 
-### 3. Simple Gross Pay
+### 3. Compute Gross Pay
 **Q. Write a program to prompt user for hours and rate per hour to compute their gross pay.**
 <br>
 
@@ -77,7 +77,7 @@
 
 ---
 
-### 4. Gross Pay with conditions
+### 4. Gross Pay with Conditions
 **Q. Rewrite your pay computation *([Exercise 3](#003-gross-pay))* to give the employee 1.5 times the hourly rate for hours worked above 40 hours.**
 <br>
 
@@ -110,7 +110,7 @@
 
 ---
 
-#### 6. Grading
+#### 6. Grading System
 **Q. Write a program to prompt for a score between 0.0 and 1.0. If the score is out of range, print an error message.<br>
 If the score is between 0.0 and 1.0, print a grade using the following table:**
 
@@ -136,7 +136,8 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ---
 
-### 7. Functions
+### Functions
+#### 7. Gross Pay
 **Q. Rewrite your pay computation *([Exercise 5](#005-try-except))* and create a function called *'computepay'* which takes two parameters (hours and rate).**
 <br>
 
@@ -152,7 +153,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ---
 
-### 8. Functions 2
+#### 8. Grading System
 **Q. Rewrite grading program *([Exercise 6](#006-try-except-2))* using function named *'computegrade'*.**
 <br>
 

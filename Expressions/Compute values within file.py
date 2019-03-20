@@ -1,4 +1,4 @@
-# Exercise 17
+
 
 """ Suming up all 'X-DSPAM-Confidence' values from 'mbox.txt' file """
 

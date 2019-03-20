@@ -1,4 +1,4 @@
-# Exercise 18
+
 
 """ Extracting emails from 'mbox.txt' file starting line with 'From' """
 

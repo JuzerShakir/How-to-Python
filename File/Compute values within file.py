@@ -1,4 +1,4 @@
-# Exercise 13
+
 
 """Write a program to read through the file 'mbox-long.txt' and look for lines of the form:
 

@@ -1,4 +1,3 @@
-# Exercise 15
 
 """ Write a program to read through a mail log, build a histogram using a dictionary to count how many messages have come from each email address. 
     Look through the dictionary using a maximum loop to find who has the most messages and print how many messages the person has."""

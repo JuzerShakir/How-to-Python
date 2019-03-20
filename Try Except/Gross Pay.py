@@ -1,4 +1,3 @@
-# Exercise 5
 
 """ Rewrite your pay program (Ex 4) using try and except so that your program handles non-numeric input gracefully by printing a message and 
     exiting the program. The following shows two executions of the program: """

@@ -1,6 +1,6 @@
 # Exercise 13
 
-"""Write a program to read through the file 'mbox-short.txt' and look for lines of the form:
+"""Write a program to read through the file 'mbox-long.txt' and look for lines of the form:
 
     X-DSPAM-Confidence: 0.8475
 

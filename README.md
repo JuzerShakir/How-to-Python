@@ -37,13 +37,15 @@
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Hello%20World.py)*
 
-![Code for Hello World](https://github.com/JuzerShakir/How-to-Python/blob/master/SnapShots/Question/Hello%20World.png)
+<p align = 'center'><img src = 'Snap Shots/Question/Hello World.png'></p>
+
 
 <br>
 
 **Output.**
 
 ![Answer to 1st question](https://i.imgur.com/iWgOyd0.png)
+
 ---
 
 ###  2. Hello User
@@ -52,7 +54,7 @@
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Hello%20User.py)*
 
-![Code for Hello User](https://i.imgur.com/PVyb32d.png)
+<p align = 'center'><img src = 'Snap Shots/Question/Hello User.png'></p>
 
 <br>
 

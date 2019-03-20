@@ -35,7 +35,7 @@
 **Q.  Output *'Hello World'* to the screen.**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Hello%20World.py)*
 
 ![Code for Hello World](https://i.imgur.com/ABnhejs.png)
 <br>
@@ -49,7 +49,7 @@
 **Q. Greet *'Hello'* to the user with *it's name.***
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Hello%20User.py)*
 
 ![Code for Hello User](https://i.imgur.com/PVyb32d.png)
 
@@ -65,7 +65,7 @@
 **Q. Write a program to prompt user for hours and rate per hour to compute their gross pay.**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Compute%20Gross%20Pay.py)*
 
 ![Code for Gross Pay](https://i.imgur.com/ozCYvYd.png)
 
@@ -81,7 +81,7 @@
 **Q. Rewrite your pay computation *([Exercise 3](#3-compute-gross-pay))* to give the employee 1.5 times the hourly rate for hours worked above 40 hours.**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Compute%20Gross%20Pay%20with%20Conditions.py)*
 
 ![Code for Conditions](https://i.imgur.com/gYQxFVb.png)
 
@@ -98,7 +98,7 @@
 **Q. Rewrite your pay program *([Exercise 4](#4-gross-pay-with-conditions))* using try and except so that your program handles non-numeric input gracefully by printing a message and exiting the program.**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Try%20Except/Gross%20Pay.py)*
 
 ![Code for Try Except](https://i.imgur.com/5XkzjeI.png)
 
@@ -124,7 +124,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Try%20Except/Grading%20System.py)*
 
 ![Code for Try Except 2](https://i.imgur.com/2Gxg853.png)
 
@@ -141,7 +141,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 **Q. Rewrite your pay computation *([Exercise 5](#5-gross-pay))* and create a function called *'computepay'* which takes two parameters (hours and rate).**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Functions/Gross%20Pay.py)*
 
 ![Code for Functions](https://i.imgur.com/DSu9qjX.png)
 
@@ -157,7 +157,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 **Q. Rewrite grading program *([Exercise 6](#6-grading-system))* using function named *'computegrade'*.**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Functions/Grading%20System.py)*
 
 ![Code for Functions 2](https://i.imgur.com/3AsehCR.png)
 
@@ -174,7 +174,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 **Q. Write a program which repeatedly reads numbers until the user inputs *"done"*. Once *"done"* is entered, print out the *total, count, and average* of the *input numbers*. If the user enters anything other than a number,  detect their mistake using try and except and print an error message and skip to the next number.**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Loop/Compute%20Input.py)*
 
 ![Code for Loop](https://i.imgur.com/CttKiRB.png)
 
@@ -191,7 +191,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 **Q. Similar to *[Exercise 9](#9-compute-input)*, only output a minimum and a maximum number inputted by the user.**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Loop/Min%20and%20Max.py)*
 
 ![Code for Loop 2](https://i.imgur.com/EckOUBw.png)
 
@@ -209,7 +209,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
     
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/String.py)*
 
 ![Code for String](https://i.imgur.com/HZpjZcS.png)
 
@@ -223,10 +223,10 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ### File
 #### 12. Print text from file
-**Q. Write a program to read through a file *[mbox-short.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/012.%20File/mbox-short.txt)* and print the contents of the file (line by line) all in upper case.**
+**Q. Write a program to read through a file *[mbox-short.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/File/mbox-short.txt)* and print the contents of the file (line by line) all in upper case.**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/File/Print%20text%20from%20a%20file.py)*
 
 ![Code for File](https://i.imgur.com/MylFIIG.png)
 
@@ -239,7 +239,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 ---
 
 #### 13. Compute values within file
-**Q. Write a program to read through the file *[mbox-short.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/013.%20File%202/mbox-short.txt)* and look for lines of the form:**<br>
+**Q. Write a program to read through the file *[mbox-long.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/File/mbox-long.txt)* and look for lines of the form:**<br>
 
 *X-DSPAM-Confidence: 0.8475* <br>
 
@@ -247,7 +247,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/File/Compute%20values%20within%20file.py)*
 
 ![Code for File 2](https://i.imgur.com/OQodMYp.png)
 
@@ -260,11 +260,11 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 ---
 
 ### 14. List
-**Q.  Write a program to open the file *[romeo.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/014.%20List/romeo.txt)* and read it line by line.**<br>
+**Q.  Write a program to open the file *[romeo.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/List/romeo.txt)* and read it line by line.**<br>
 **For each line, split the line into a list of words using the *'split'* function. For each word, check to see if the word is already in a list. If the word is not in the list, add it to the list. When the program completes, sort and print the resulting words in alphabetical order.**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/List/Splitting%20and%20Sorting.py)*
 
 ![Code for List](https://i.imgur.com/C8Wwk7H.png)
 
@@ -277,12 +277,12 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 ---
 
 ### 15. Dictionary
-**Q. Write a program to read through a mail log from *[mbox-short.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/015.%20Dictionary/mbox-short.txt)*  file, line starting with *'From'*. Build a histogram using a dictionary to count how many messages have come from each email address.** <br>
+**Q. Write a program to read through a mail log from *[mbox-long.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Dictionary/mbox-long.txt)*  file, line starting with *'From'*. Build a histogram using a dictionary to count how many messages have come from each email address.** <br>
 
 **Look through the dictionary using loop to find who has the most messages and print how many messages the person has.**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Dictionary/Most_email.py)*
 
 ![Code for Dictionary](https://i.imgur.com/dduRO1m.png)
 
@@ -295,11 +295,11 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 ---
 
 ### 16. Tuples
-**Q. Write a program that counts the distribution of the hour of the day for each of the messages in the *[mbox-short.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/016.%20Tuples/mbox-short.txt)* file. You can pull the hour from the *'From'* line by finding the time string and then splitting that string into parts using the colon character.**<br>
+**Q. Write a program that counts the distribution of the hour of the day for each of the messages in the *[mbox-long.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Tuples/mbox-long.txt)* file. You can pull the hour from the *'From'* line by finding the time string and then splitting that string into parts using the colon character.**<br>
 **Once you have accumulated the counts for each hour, print out the counts, one per line, sorted by hour.**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Tuples/Most_mail_hour.py)*
 
 ![Code for Tuples](https://i.imgur.com/csRPYqd.png)
 
@@ -313,10 +313,10 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ### Expressions
 #### 17. Compute values within file
-**Q. Sum up all *'X-DSPAM-Confidence'* values from *[mbox.txt](https://raw.githubusercontent.com/JuzerShakir/How-to-Python/master/017.%20Expression/mbox.txt)* file.**
+**Q. Sum up all *'X-DSPAM-Confidence'* values from *[mbox.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/mbox.txt)* file.**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/Compute%20values%20within%20file.py)*
 
 ![Code for Expression - Sum](https://i.imgur.com/2NrCPeU.png)
 <br>
@@ -328,10 +328,10 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 ---
 
 #### 18. Highest Emails
-**Q. Write a program similar to *[Exercise 15](#15-dictionary)* but regardless of whether the line starts from *'From'* on *[mbox.txt](https://raw.githubusercontent.com/JuzerShakir/How-to-Python/master/017.%20Expression/mbox.txt)* file.**
+**Q. Write a program similar to *[Exercise 15](#15-dictionary)* but regardless of whether the line starts from *'From'* on *[mbox.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/mbox.txt)* file.**
 <br>
 
-*Code.*
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/Highest%20Email.py)*
 
 ![Code for Expression - Email](https://i.imgur.com/sLw3Fca.png)
 

@@ -19,9 +19,9 @@
   - [Exercise 9](#9-compute-input)
   - [Exercise 10](#10-min-and-max)
 - [Exercise 11](#11-string)
-- [File](#12-file)
-  - [Exercise 12](#12-file)
-  - [Exercise 13](#13-file-2)
+- [File](#file)
+  - [Exercise 12](#12-print-text-from-file)
+  - [Exercise 13](#13-compute-values-within-file)
 - [Exercise 14](#14-list)
 - [Exercise 15](#15-dictionary)
 - [Exercise 16](#16-tuples)
@@ -221,7 +221,8 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ---
 
-### 12. File
+### File
+#### 12. Print text from file
 **Q. Write a program to read through a file *[mbox-short.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/012.%20File/mbox-short.txt)* and print the contents of the file (line by line) all in upper case.**
 <br>
 
@@ -233,11 +234,11 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 **Output.**
 
-![Output for File]()
+![Output for Print text from file]()
 
 ---
 
-### 13. File 2
+#### 13. Compute values within file
 **Q. Write a program to read through the file *[mbox-short.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/013.%20File%202/mbox-short.txt)* and look for lines of the form:**<br>
 
 *X-DSPAM-Confidence: 0.8475* <br>
@@ -254,7 +255,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 **Output.**
 
-![Output for File 2]()
+![Output for Compute values within file]()
 
 ---
 

@@ -311,7 +311,8 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 ---
 
-### 17. Sum
+### Expressions
+#### 17. Compute values within file
 **Q. Sum up all *'X-DSPAM-Confidence'* values from *[mbox.txt](https://raw.githubusercontent.com/JuzerShakir/How-to-Python/master/017.%20Expression/mbox.txt)* file.**
 <br>
 
@@ -322,11 +323,11 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 **Output.**
 
-![Output for Sum]()
+![Output for Compute values within file]()
 
 ---
 
-### 18. Email
+#### 18. Highest Emails
 **Q. Write a program similar to *[Exercise 15](#015-dictionary)* but regardless of whether the line starts from *'From'* on *[mbox.txt](https://raw.githubusercontent.com/JuzerShakir/How-to-Python/master/017.%20Expression/mbox.txt)* file.**
 <br>
 
@@ -338,6 +339,6 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 **Output.**
 
-![Output for Email]()
+![Output for Highest Emails]()
 
 ---

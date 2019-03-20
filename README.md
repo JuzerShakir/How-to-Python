@@ -25,9 +25,9 @@
 - [Exercise 14](#14-list)
 - [Exercise 15](#15-dictionary)
 - [Exercise 16](#16-tuples)
-- [Expressions](#17-sum)
-  - [Exercise 17](#17-sum)
-  - [Exercise 18](#18-email)
+- [Expressions](#expressions)
+  - [Exercise 17](#17-compute-values-within-file)
+  - [Exercise 18](#18-highest-emails)
 
 ----
 

@@ -37,7 +37,7 @@
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Hello%20World.py)*
 
-<p align = 'center'><img src = 'Snap Shots/Question/Hello World.png'></p>
+<p><img src = 'Snap Shots/Question/Hello World.png'></p>
 
 
 <br>
@@ -54,7 +54,7 @@
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Hello%20User.py)*
 
-<p align = 'center'><img src = 'Snap Shots/Question/Hello User.png'></p>
+<p><img src = 'Snap Shots/Question/Hello User.png'></p>
 
 <br>
 

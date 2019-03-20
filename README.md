@@ -37,7 +37,8 @@
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Hello%20World.py)*
 
-![Code for Hello World](https://i.imgur.com/ABnhejs.png)
+![Code for Hello World](https://github.com/JuzerShakir/How-to-Python/blob/master/SnapShots/Question/Hello%20World.png)
+
 <br>
 
 **Output.**

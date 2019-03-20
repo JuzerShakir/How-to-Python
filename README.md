@@ -73,7 +73,7 @@
 
 **Output.**
 
-![Output for Gross Pay]()
+![Output for Compute Gross Pay]()
 
 ---
 
@@ -89,7 +89,7 @@
 
 **Output.**
 
-![Output for  Conditions]()
+![Output for Gross Pay with Conditions]()
 
 ---
 
@@ -106,7 +106,7 @@
 
 **Output.**
 
-![Output for  Try Except]()
+![Output for Gross Pay]()
 
 ---
 
@@ -132,7 +132,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 **Output.**
 
-![Output for  Try Except 2]()
+![Output for Grading System]()
 
 ---
 
@@ -149,7 +149,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 **Output.**
 
-![Output for Functions]()
+![Output for Gross Pay]()
 
 ---
 
@@ -165,7 +165,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 **Output.**
 
-![Output for Functions 2]()
+![Output for Grading System]()
 
 ---
 
@@ -182,12 +182,12 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 **Output.**
 
-![Output for Loop]()
+![Output for Compute Input]()
 
 
 ---
 
-#### 10. Min & Max
+#### 10. Min and Max
 **Q. Similar to *[Exercise 9](#009-loop)*, only output a minimum and a maximum number inputted by the user.**
 <br>
 
@@ -199,7 +199,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 **Output.**
 
-![Output for Loop 2]()
+![Output for Min and Max]()
 
 ---
 

@@ -70,7 +70,7 @@
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Compute%20Gross%20Pay.py)*
 
-<p><img src = 'Snap Shots/Question/Compute Gross  Pay.png'></p>
+<p><img src = 'Snap Shots/Question/Compute Gross Pay.png'></p>
 
 <br>
 

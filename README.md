@@ -1,5 +1,3 @@
-
-
 # Guide on how to code in Python.
 *For beginners on the road to expert!*
 
@@ -72,7 +70,7 @@
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Compute%20Gross%20Pay.py)*
 
-![Code for Gross Pay](https://i.imgur.com/ozCYvYd.png)
+<p><img src = 'Snap Shots/Question/Compute Gross  Pay.png'></p>
 
 <br>
 
@@ -88,9 +86,8 @@
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Compute%20Gross%20Pay%20with%20Conditions.py)*
 
-![Code for Conditions](https://i.imgur.com/gYQxFVb.png)
+<p><img src = 'Snap Shots/Question/Compute Gross Pay with Conditions.png'></p>
 
-<br>
 
 **Output.**
 
@@ -107,7 +104,7 @@
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Try%20Except/Gross%20Pay.py)*
 
-![Code for Try Except](https://i.imgur.com/5XkzjeI.png)
+<p><img src = 'Snap Shots/Question/Try Except/Gross Pay.png'></p>
 
 <br>
 
@@ -133,7 +130,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Try%20Except/Grading%20System.py)*
 
-![Code for Try Except 2](https://i.imgur.com/2Gxg853.png)
+<p><img src = 'Snap Shots/Question/Try Except/Grading System.png'></p>
 
 <br>
 
@@ -152,7 +149,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Functions/Gross%20Pay.py)*
 
-![Code for Functions](https://i.imgur.com/DSu9qjX.png)
+<p><img src = 'Snap Shots/Question/Function/Gross Pay.png'></p>
 
 <br>
 
@@ -168,7 +165,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Functions/Grading%20System.py)*
 
-![Code for Functions 2](https://i.imgur.com/3AsehCR.png)
+<p><img src = 'Snap Shots/Question/Function/Grading System.png'></p>
 
 <br>
 
@@ -187,7 +184,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Loop/Compute%20Input.py)*
 
-![Code for Loop](https://i.imgur.com/CttKiRB.png)
+<p><img src = 'Snap Shots/Question/Loop/Compute Input.png'></p>
 
 <br>
 
@@ -204,7 +201,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Loop/Min%20and%20Max.py)*
 
-![Code for Loop 2](https://i.imgur.com/EckOUBw.png)
+<p><img src = 'Snap Shots/Question/Loop/Min and Max.png'></p>
 
 <br>
 
@@ -224,7 +221,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/String.py)*
 
-![Code for String](https://i.imgur.com/HZpjZcS.png)
+<p><img src = 'Snap Shots/Question/String.png'></p>
 
 <br>
 
@@ -241,7 +238,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/File/Print%20text%20from%20a%20file.py)*
 
-![Code for File](https://i.imgur.com/MylFIIG.png)
+<p><img src = 'Snap Shots/Question/File/Print text from a File.png'></p>
 
 <br>
 
@@ -264,7 +261,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/File/Compute%20values%20within%20file.py)*
 
-![Code for File 2](https://i.imgur.com/OQodMYp.png)
+<p><img src = 'Snap Shots/Question/File/Compute Values within File.png'></p>
 
 <br>
 
@@ -281,7 +278,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/List/Splitting%20and%20Sorting.py)*
 
-![Code for List](https://i.imgur.com/C8Wwk7H.png)
+<p><img src = 'Snap Shots/Question/Splitting and Sorting.png'></p>
 
 <br>
 
@@ -301,7 +298,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Dictionary/Most_email.py)*
 
-![Code for Dictionary](https://i.imgur.com/dduRO1m.png)
+<p><img src = 'Snap Shots/Question/Most Email.png'></p>
 
 <br>
 
@@ -318,7 +315,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Tuples/Most_mail_hour.py)*
 
-![Code for Tuples](https://i.imgur.com/csRPYqd.png)
+<p><img src = 'Snap Shots/Question/Most Mail Hour.png'></p>
 
 <br>
 
@@ -337,7 +334,8 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/Compute%20values%20within%20file.py)*
 
-![Code for Expression - Sum](https://i.imgur.com/2NrCPeU.png)
+<p><img src = 'Snap Shots/Question/Expressions/Compute values within file.png'></p>
+
 <br>
 
 **Output.**
@@ -352,7 +350,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/Highest%20Email.py)*
 
-![Code for Expression - Email](https://i.imgur.com/sLw3Fca.png)
+<p><img src = 'Snap Shots/Question/Expressions/Highest Email.png'></p>
 
 <br>
 

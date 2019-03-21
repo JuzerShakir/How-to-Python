@@ -42,7 +42,9 @@
 
 **Output.**
 
-![Answer to 1st question](https://i.imgur.com/iWgOyd0.png)
+```
+Hello World
+```
 
 ---
 
@@ -56,9 +58,17 @@
 
 <br>
 
-**Output.**
+**Input:**
 
-![Output for Hello User]()
+```
+Juzer Shakir
+```
+
+**Output:**
+
+```
+Hello Juzer Shakir
+```
 
 *[Back to Top](#table-of-contents)*
 

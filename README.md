@@ -84,9 +84,17 @@ Hello Juzer Shakir
 
 <br>
 
-**Output.**
+**Input:**
 
-![Output for Compute Gross Pay]()
+```
+Enter Hours: 10
+Enter Rate: 10
+```
+**Output:**
+
+```
+Pay: 1000.0
+```
 
 ---
 
@@ -98,10 +106,39 @@ Hello Juzer Shakir
 
 <p><img src = 'Snap Shots/Question/Compute Gross Pay with Conditions.png'></p>
 
+<br>
 
-**Output.**
+**Scenario 1:**
+<br>
 
-![Output for Gross Pay with Conditions]()
+<h6>Input</h6>
+
+```
+Enter Hours: 10
+Enter Rate: 10
+```
+
+<h6>Output:</h6>
+
+```
+Pay: 1000.0
+```
+**Scenario 2:**
+<br>
+
+<h6>Input</h6>
+
+```
+Enter Hours: 45
+Enter Rate: 10
+```
+
+<h6>Output:</h6>
+
+```
+Pay: 475.0
+```
+
 
 *[Back to Top](#table-of-contents)*
 

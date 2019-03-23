@@ -13,6 +13,8 @@ except:
     print('No such file exists in this directory with this file name:', file_name)
     quit()
 
+open_file = open(file_name, 'r')
+
 # loop through each line in the file upper case it
 for line in open_file:
     print(line.upper())

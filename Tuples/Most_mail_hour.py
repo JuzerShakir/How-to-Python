@@ -6,7 +6,11 @@
 name = input("Enter file name: ")
 
 # opens file
-file = open(name)
+try:
+        file = open(name)
+except:
+        print(name, "file doesn't exist")
+        quit()
 
 # empty dictionary for counting
 counts = dict()

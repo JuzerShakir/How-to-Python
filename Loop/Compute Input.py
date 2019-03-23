@@ -28,8 +28,12 @@ while num != 'done':
     # asking for next number
     num = input('Enter a number: ')
 
-# calc all inputs avg
-avg = sum / count
-print(sum, count, avg)
+# calc all inputs avg, count and sum
+try:
+    avg = sum / count
+    print('Total of all', count, 'numeric inputs are', sum, 'with an average of', avg)
+# if all input were string except for 'done'
+except:
+    print('Canonot compute string input. Only numeric input allowed.')
 
 # THE END

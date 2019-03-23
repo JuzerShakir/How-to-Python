@@ -5,7 +5,11 @@
 name = input("Enter file name: ")
 
 # opens file
-file = open(name)
+try:
+        file = open(name)
+except:
+        print(name, "file doesn't exist")
+        quit()
 
 # empty dictionary for counting
 counts = dict()
@@ -30,6 +34,9 @@ for key, value in counts.items():
         email = key
         count = value
 
-print(email, count)
+if email != None:
+        print(email, 'has most messages of',count)
+else:
+        print('Inappropraite file to compute.')
 
 # THE END

@@ -155,9 +155,35 @@ Pay: 475.0
 
 <br>
 
-**Output.**
+**Scenario 1:**
+<br>
 
-![Output for Gross Pay]()
+<h6>Input</h6>
+
+```
+Enter Hours: five
+```
+
+<h6>Output:</h6>
+
+```
+Error, please enter numeric input
+```
+**Scenario 2:**
+<br>
+
+<h6>Input</h6>
+
+```
+Enter Hours: 65
+Enter Rate: 8
+```
+
+<h6>Output:</h6>
+
+```
+Pay: 620.0
+```
 
 ---
 
@@ -181,9 +207,34 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-**Output.**
+**Scenario 1:**
+<br>
 
-![Output for Grading System]()
+<h6>Input</h6>
+
+```
+Enter score: 1.1
+```
+
+<h6>Output:</h6>
+
+```
+Bad Score
+```
+**Scenario 2:**
+<br>
+
+<h6>Input</h6>
+
+```
+Enter score: 0.76
+```
+
+<h6>Output:</h6>
+
+```
+C
+```
 
 *[Back to Top](#table-of-contents)*
 
@@ -200,9 +251,36 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-**Output.**
+**Scenario 1:**
+<br>
 
-![Output for Gross Pay]()
+<h6>Input</h6>
+
+```
+Enter Hours: 60
+Enter Rate: eleven
+```
+
+<h6>Output:</h6>
+
+```
+Error, please enter numeric input
+```
+**Scenario 2:**
+<br>
+
+<h6>Input</h6>
+
+```
+Enter Hours: 40.5
+Enter Rate: 9.5
+```
+
+<h6>Output:</h6>
+
+```
+Pay: 387.125
+```
 
 ---
 
@@ -216,11 +294,36 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-**Output.**
+**Scenario 1:**
+<br>
+
+<h6>Input</h6>
+
+```
+Enter score: 0.52
+```
+
+<h6>Output:</h6>
+
+```
+F
+```
+**Scenario 2:**
+<br>
+
+<h6>Input</h6>
+
+```
+Enter score: 0.83
+```
+
+<h6>Output:</h6>
+
+```
+B
+```
 
 *[Back to Top](#table-of-contents)*
-
-![Output for Grading System]()
 
 ---
 
@@ -235,10 +338,68 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-**Output.**
+**Scenario 1:**
 
-![Output for Compute Input]()
+###### Input:
+```
+Enter a number: juzer
+Invalid input
+Enter a number: one
+Invalid input
+Enter a number: twenty
+Invalid input
+Enter a number: done
+```
 
+###### Output:
+```
+Canonot compute string input. Only numeric input allowed.
+```
+
+**Scenario 2:**
+
+###### Input:
+```
+Enter a number: 97
+Enter a number: 176
+Enter a number: 32
+Enter a number: forty 
+Invalid input
+Enter a number: 40
+Enter a number: 64
+Enter a number: 21
+Enter a number: 99
+Enter a number: 58
+Enter a number: hundred
+Invalid input
+Enter a number: 100
+Enter a number: done
+```
+
+###### Output:
+```
+Total of all 9 numeric inputs are 687.0 with an average of 76.33333333333333
+```
+
+**Scenario 3:**
+
+###### Input:
+```
+Enter a number: 97
+Enter a number: 11
+Enter a number: 41
+Enter a number: 86
+Enter a number: 191
+Enter a number: 80
+Enter a number: 23
+Enter a number: 153
+Enter a number: done
+```
+
+###### Output:
+```
+Total of all 8 numeric inputs are 682.0 with an average of 85.25
+```
 
 ---
 
@@ -252,9 +413,65 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-**Output.**
+**Scenario 1:**
 
-![Output for Min and Max]()
+###### Input:
+```
+Enter a number: ww
+Invald input.
+Enter a number: nine
+Invald input.
+Enter a number: done
+```
+
+###### Output:
+```
+Minimum = None Maximum = None
+```
+
+**Scenario 2:**
+
+###### Input:
+```
+Enter a number: 70
+Enter a number: 80
+Enter a number: 37
+Enter a number: 49
+Enter a number: lalala 
+Invald input.
+Enter a number: 56
+Enter a number: 1
+Enter a number: 6
+Enter a number: don 
+Invald input.
+Enter a number: done
+```
+
+###### Output:
+```
+Minimum = 1.0 Maximum = 80.0
+```
+
+**Scenario 3:**
+
+###### Input:
+```
+Enter a number: 17
+Enter a number: 30
+Enter a number: 61
+Enter a number: 102
+Enter a number: 5
+Enter a number: 110
+Enter a number: 45
+Enter a number: 69
+Enter a number: 87
+Enter a number: done
+```
+
+###### Output:
+```
+Minimum = 5.0 Maximum = 110.0
+```
 
 *[Back to Top](#table-of-contents)*
 
@@ -274,7 +491,9 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 **Output.**
 
-![Output for String]()
+```
+0.8475
+```
 
 ---
 
@@ -289,11 +508,47 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-**Output.**
+**Scenario 1:**
+
+###### Input:
+```
+Enter a file name: short.txt
+```
+
+###### Output:
+```
+No such file exists in this directory with this file name: short.txt
+```
+
+**Scenario 2:**
+
+###### Input:
+```
+Enter a file name: mbox-short.txt
+```
+
+###### Output:
+```
+FROM STEPHEN.MARQUARD@UCT.AC.ZA SAT JAN  5 09:14:16 2008
+
+RETURN-PATH: <POSTMASTER@COLLAB.SAKAIPROJECT.ORG>
+
+RECEIVED: FROM MURDER (MAIL.UMICH.EDU [141.211.14.90])
+
+         BY FRANKENSTEIN.MAIL.UMICH.EDU (CYRUS V2.3.8) WITH LMTPA;
+
+         SAT, 05 JAN 2008 09:14:16 -0500
+
+X-SIEVE: CMU SIEVE 2.3
+
+RECEIVED: FROM MURDER ([UNIX SOCKET])
+
+         BY MAIL.UMICH.EDU (CYRUS V2.2.12) WITH LMTPA;
+
+         SAT, 05 JAN 2008 09:14:16 -0500
+```
 
 *[Back to Top](#table-of-contents)*
-
-![Output for Print text from file]()
 
 ---
 
@@ -312,9 +567,41 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-**Output.**
+**Scenario 1:**
 
-![Output for Compute values within file]()
+###### Input:
+```
+Enter a file name: short.txt
+```
+
+###### Output:
+```
+No such file exists in this directory with this file name: short.txt
+```
+
+**Scenario 2:**
+
+###### Input:
+```
+Enter a file name: mbox-short.txt
+```
+
+###### Output:
+```
+This file does not contain spam confidence values to compute. Please input file name of appropriate file.
+```
+
+**Scenario 3:**
+
+###### Input:
+```
+Enter a file name: mbox-long.txt
+```
+
+###### Output:
+```
+Average spam confidence: 0.7507185185185187
+```
 
 ---
 
@@ -329,9 +616,29 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-**Output.**
+**Scenario 1:**
 
-![Output for List]()
+###### Input:
+```
+Enter a file name: domeo.txt
+```
+
+###### Output:
+```
+domeo.txt doesnt exist!
+```
+
+**Scenario 2:**
+
+###### Input:
+```
+Enter a file name: romeo.txt
+```
+
+###### Output:
+```
+['Arise', 'But', 'It', 'Juliet', 'Who', 'already', 'and', 'breaks', 'east', 'envious', 'fair', 'grief', 'is', 'kill', 'light', 'moon', 'pale', 'sick', 'soft', 'sun', 'the', 'through', 'what', 'window', 'with', 'yonder']
+```
 
 *[Back to Top](#table-of-contents)*
 
@@ -349,9 +656,29 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-**Output.**
+**Scenario 1:**
 
-![Output for Dictionary]()
+###### Input:
+```
+Enter file name: mbox.txt
+```
+
+###### Output:
+```
+mbox.txt file doesn't exist
+```
+
+**Scenario 2:**
+
+###### Input:
+```
+Enter file name: mbox-long.txt
+```
+
+###### Output:
+```
+cwen@iupui.edu has most messages of 5
+```
 
 ---
 
@@ -366,9 +693,29 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-**Output.**
+**Scenario 1:**
 
-![Output for Tuples]()
+###### Input:
+```
+Enter file name: 11
+```
+
+###### Output:
+```
+11 file doesn't exist
+```
+
+**Scenario 2:**
+
+###### Input:
+```
+Enter file name: mbox-long.txt
+```
+
+###### Output:
+```
+[('04', 3), ('06', 1), ('07', 1), ('09', 2), ('10', 3), ('11', 6), ('14', 1), ('15', 2), ('16', 4), ('17', 2), ('18', 1), ('19', 1)]
+```
 
 *[Back to Top](#table-of-contents)*
 
@@ -385,9 +732,29 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-**Output.**
+**Scenario 1:**
 
-![Output for Compute values within file]()
+###### Input:
+```
+Enter file name: dummy
+```
+
+###### Output:
+```
+No such file found! Try again!
+```
+
+**Scenario 2:**
+
+###### Input:
+```
+Enter file name: mbox.txt
+```
+
+###### Output:
+```
+667.8322999999995
+```
 
 ---
 
@@ -401,9 +768,30 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 <br>
 
-**Output.**
+**Scenario 1:**
 
-![Output for Highest Emails]()
+###### Input:
+```
+Enter file name: dummy
+```
+
+###### Output:
+```
+No such file found! Try again!
+```
+
+**Scenario 2:**
+
+###### Input:
+```
+Enter file name: mbox.txt
+```
+
+###### Output:
+```
+Numeber of email id's:  746
+131 is highest number of mails done by cwen@iupui.edu email id.
+```
 
 *[Back to Top](#table-of-contents)*
 

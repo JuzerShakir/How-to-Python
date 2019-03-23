@@ -33,7 +33,9 @@ for line in open_file:
         count = count + 1
 
 # show average
-print('Average spam confidence:', total/count)
-
+try:
+    print('Average spam confidence:', total/count)
+except:
+    print('This file does not contain spam confidence values to compute. Please input file name of appropriate file.')
 
 # THE END

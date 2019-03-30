@@ -20,7 +20,9 @@
 - [File](#file)
   - [Print text from a file](#12-print-text-from-file)
   - [Compute values within file](#13-compute-values-within-file)
-- [List](#14-list)
+- [List](#list)
+  - [Splitting and Sorting](#14-splitting-and-sorting)
+  - [Email Count](#15-email-count)
 - [Dictionary](#15-dictionary)
 - [Tuples](#16-tuples)
 - [Expressions](#expressions)
@@ -605,14 +607,15 @@ Average spam confidence: 0.7507185185185187
 
 ---
 
-### 14. List
+### List
+#### 14. Splitting and Sorting
 **Q.  Write a program to open the file *[romeo.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/List/romeo.txt)* and read it line by line.**<br>
 **For each line, split the line into a list of words using the *'split'* function. For each word, check to see if the word is already in a list. If the word is not in the list, add it to the list. When the program completes, sort and print the resulting words in alphabetical order.**
 <br>
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/List/Splitting%20and%20Sorting.py)*
 
-<p><img src = 'Snap Shots/Question/Splitting and Sorting.png'></p>
+<p><img src = 'Snap Shots/Question/List/Splitting and Sorting.png'></p>
 
 <br>
 
@@ -644,7 +647,85 @@ Enter a file name: romeo.txt
 
 ---
 
-### 15. Dictionary
+#### 15. Email Count
+**Q. Write a program to read through a mail log from *[mbox-long.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/List/mbox-long.txt)*  file, line starting with *'From '*. You will parse the From line using split() and print out the second word in the line (i.e. the entire address of the person who sent the message). Then print out a count at the end.**
+
+*Hint: make sure not to include the lines that start with 'From:'.*
+
+<br>
+
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/List/Email%20Count.py)*
+
+<p><img src = 'Snap Shots/Question//List/Email Count.png'></p>
+
+<br>
+
+**Scenario 1:**
+
+###### Input:
+```
+Enter a file name: domeo.txt
+```
+
+###### Output:
+```
+domeo.txt file doesnt exist!
+```
+
+**Scenario 2:**
+
+###### Input:
+```
+Enter a file name: romeo.txt
+```
+
+###### Output:
+```
+Please input desired file name for computation.
+```
+
+**Scenario 3:**
+
+###### Input:
+```
+Enter a file name: mbox-long.txt
+```
+
+###### Output:
+```
+stephen.marquard@uct.ac.za
+louis@media.berkeley.edu
+zqian@umich.edu
+rjlowe@iupui.edu
+zqian@umich.edu
+rjlowe@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+gsilver@umich.edu
+gsilver@umich.edu
+zqian@umich.edu
+gsilver@umich.edu
+wagnermr@iupui.edu
+zqian@umich.edu
+antranig@caret.cam.ac.uk
+gopal.ramasammycook@gmail.com
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+stephen.marquard@uct.ac.za
+louis@media.berkeley.edu
+louis@media.berkeley.edu
+ray@media.berkeley.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+There were 27 lines in the file with 'From' as the first word
+```
+
+----
+
+### 16. Dictionary
 **Q. Write a program to read through a mail log from *[mbox-long.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Dictionary/mbox-long.txt)*  file, line starting with *'From '*. Build a histogram using a dictionary to count how many messages have come from each email address.** <br>
 
 **Look through the dictionary using loop to find who has the most messages and print how many messages the person has.**
@@ -685,7 +766,7 @@ cwen@iupui.edu has most messages of 5
 
 ---
 
-### 16. Tuples
+### 17. Tuples
 **Q. Write a program that counts the distribution of the hour of the day for each of the messages in the *[mbox-long.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Tuples/mbox-long.txt)* file. You can pull the hour from the *'From'* line by finding the time string and then splitting that string into parts using the colon character.**<br>
 **Once you have accumulated the counts for each hour, print out the counts, one per line, sorted by hour.**
 <br>
@@ -725,7 +806,7 @@ Enter file name: mbox-long.txt
 ---
 
 ### Expressions
-#### 17. Compute values within file
+#### 18. Compute values within file
 **Q. Sum up all *'X-DSPAM-Confidence'* values from *[mbox.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/mbox.txt)* file.**
 <br>
 
@@ -761,7 +842,7 @@ Enter file name: mbox.txt
 
 ---
 
-#### 18. Highest Emails
+#### 19. Highest Emails
 **Q. Write a program similar to *[Exercise 15](#15-dictionary)* but regardless of whether the line starts from *'From'* on *[mbox.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/mbox.txt)* file.**
 <br>
 

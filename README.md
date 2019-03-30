@@ -645,9 +645,12 @@ Enter a file name: romeo.txt
 ---
 
 ### 15. Dictionary
-**Q. Write a program to read through a mail log from *[mbox-long.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Dictionary/mbox-long.txt)*  file, line starting with *'From'*. Build a histogram using a dictionary to count how many messages have come from each email address.** <br>
+**Q. Write a program to read through a mail log from *[mbox-long.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Dictionary/mbox-long.txt)*  file, line starting with *'From '*. Build a histogram using a dictionary to count how many messages have come from each email address.** <br>
 
 **Look through the dictionary using loop to find who has the most messages and print how many messages the person has.**
+
+*Note: make sure not to include the lines that start with 'From:'.*
+
 <br>
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Dictionary/Most_email.py)*

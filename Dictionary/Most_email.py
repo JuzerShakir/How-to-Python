@@ -17,11 +17,10 @@ counts = dict()
 # looping through each line in file
 for line in file:
     # interested in lines that start with From
-    if line.startswith('From'):
+    if line.startswith('From '):
         words = line.split()
-        # two 'From's for single message, ignoring duplicate counts
-        if len(words) > 2:
-            counts[words[1]] = counts.get(words[1], 0) + 1
+        # creating new key and value pairs if key doesn't exist. Or increamenting by one.
+        counts[words[1]] = counts.get(words[1], 0) + 1
 
 
 email = None

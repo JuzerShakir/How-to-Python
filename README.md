@@ -23,11 +23,11 @@
 - [List](#list)
   - [Splitting and Sorting](#14-splitting-and-sorting)
   - [Email Count](#15-email-count)
-- [Dictionary](#15-dictionary)
-- [Tuples](#16-tuples)
+- [Dictionary](#16-dictionary)
+- [Tuples](#17-tuples)
 - [Expressions](#expressions)
-  - [Compute values within file](#17-compute-values-within-file)
-  - [Highest Emails](#18-highest-emails)
+  - [Compute values within file](#18-compute-values-within-file)
+  - [Highest Emails](#19-highest-emails)
 
 ----
 

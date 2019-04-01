@@ -767,7 +767,7 @@ cwen@iupui.edu has most messages of 5
 ---
 
 ### 17. Tuples
-**Q. Write a program that counts the distribution of the hour of the day for each of the messages in the *[mbox-long.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Tuples/mbox-long.txt)* file. You can pull the hour from the *'From'* line by finding the time string and then splitting that string into parts using the colon character.**<br>
+**Q. Write a program that counts the distribution of the hour of the day for each of the messages in the *[mbox-long.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Tuples/mbox-long.txt)* file. You can pull the hour from the *'From '* line by finding the time string and then splitting that string into parts using the colon character.**<br>
 **Once you have accumulated the counts for each hour, print out the counts, one per line, sorted by hour.**
 <br>
 
@@ -798,7 +798,18 @@ Enter file name: mbox-long.txt
 
 ###### Output:
 ```
-[('04', 3), ('06', 1), ('07', 1), ('09', 2), ('10', 3), ('11', 6), ('14', 1), ('15', 2), ('16', 4), ('17', 2), ('18', 1), ('19', 1)]
+04 3
+06 1
+07 1
+09 2
+10 3
+11 6
+14 1
+15 2
+16 4
+17 2
+18 1
+19 1
 ```
 
 *[Back to Top](#table-of-contents)*

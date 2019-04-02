@@ -38,7 +38,7 @@
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Hello%20World.py)*
 
-<p><img src = 'Snap Shots/Question/Hello World.png'></p>
+<p><img src = 'CodePics/Hello World.png'></p>
 
 
 <br>
@@ -57,7 +57,7 @@ Hello World
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Hello%20User.py)*
 
-<p><img src = 'Snap Shots/Question/Hello User.png'></p>
+<p><img src = 'CodePics/Hello User.png'></p>
 
 <br>
 
@@ -83,7 +83,7 @@ Hello Juzer Shakir
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Compute%20Gross%20Pay.py)*
 
-<p><img src = 'Snap Shots/Question/Compute Gross Pay.png'></p>
+<p><img src = 'CodePics/Compute Gross Pay.png'></p>
 
 <br>
 
@@ -107,7 +107,7 @@ Pay: 1000.0
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Compute%20Gross%20Pay%20with%20Conditions.py)*
 
-<p><img src = 'Snap Shots/Question/Compute Gross Pay with Conditions.png'></p>
+<p><img src = 'CodePics/Compute Gross Pay with Conditions.png'></p>
 
 <br>
 
@@ -154,7 +154,7 @@ Pay: 475.0
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Try%20Except/Gross%20Pay.py)*
 
-<p><img src = 'Snap Shots/Question/Try Except/Gross Pay.png'></p>
+<p><img src = 'CodePics/Try Except/Gross Pay.png'></p>
 
 <br>
 
@@ -206,7 +206,7 @@ If the score is between 0.0 and 1.0, print a grade using the following table:**
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Try%20Except/Grading%20System.py)*
 
-<p><img src = 'Snap Shots/Question/Try Except/Grading System.png'></p>
+<p><img src = 'CodePics/Try Except/Grading System.png'></p>
 
 <br>
 
@@ -250,7 +250,7 @@ C
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Functions/Gross%20Pay.py)*
 
-<p><img src = 'Snap Shots/Question/Function/Gross Pay.png'></p>
+<p><img src = 'CodePics/Function/Gross Pay.png'></p>
 
 <br>
 
@@ -293,7 +293,7 @@ Pay: 387.125
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Functions/Grading%20System.py)*
 
-<p><img src = 'Snap Shots/Question/Function/Grading System.png'></p>
+<p><img src = 'CodePics/Function/Grading System.png'></p>
 
 <br>
 
@@ -337,7 +337,7 @@ B
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Loop/Compute%20Input.py)*
 
-<p><img src = 'Snap Shots/Question/Loop/Compute Input.png'></p>
+<p><img src = 'CodePics/Loop/Compute Input.png'></p>
 
 <br>
 
@@ -412,7 +412,7 @@ Total of all 8 numeric inputs are 682.0 with an average of 85.25
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Loop/Min%20and%20Max.py)*
 
-<p><img src = 'Snap Shots/Question/Loop/Min and Max.png'></p>
+<p><img src = 'CodePics/Loop/Min and Max.png'></p>
 
 <br>
 
@@ -488,7 +488,7 @@ Minimum = 5.0 Maximum = 110.0
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/String.py)*
 
-<p><img src = 'Snap Shots/Question/String.png'></p>
+<p><img src = 'CodePics/String.png'></p>
 
 <br>
 
@@ -507,7 +507,7 @@ Minimum = 5.0 Maximum = 110.0
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/File/Print%20text%20from%20a%20file.py)*
 
-<p><img src = 'Snap Shots/Question/File/Print text from a File.png'></p>
+<p><img src = 'CodePics/File/Print text from a File.png'></p>
 
 <br>
 
@@ -566,7 +566,7 @@ RECEIVED: FROM MURDER ([UNIX SOCKET])
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/File/Compute%20values%20within%20file.py)*
 
-<p><img src = 'Snap Shots/Question/File/Compute Values within File.png'></p>
+<p><img src = 'CodePics/File/Compute Values within File.png'></p>
 
 <br>
 
@@ -616,7 +616,7 @@ Average spam confidence: 0.7507185185185187
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/List/Splitting%20and%20Sorting.py)*
 
-<p><img src = 'Snap Shots/Question/List/Splitting and Sorting.png'></p>
+<p><img src = 'CodePics/List/Splitting and Sorting.png'></p>
 
 <br>
 
@@ -657,7 +657,7 @@ Enter a file name: romeo.txt
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/List/Email%20Count.py)*
 
-<p><img src = 'Snap Shots/Question//List/Email Count.png'></p>
+<p><img src = 'CodePics//List/Email Count.png'></p>
 
 <br>
 
@@ -737,7 +737,7 @@ There were 27 lines in the file with 'From' as the first word
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Dictionary/Most_email.py)*
 
-<p><img src = 'Snap Shots/Question/Most Email.png'></p>
+<p><img src = 'CodePics/Most Email.png'></p>
 
 <br>
 
@@ -774,7 +774,7 @@ cwen@iupui.edu has most messages of 5
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Tuples/Most_mail_hour.py)*
 
-<p><img src = 'Snap Shots/Question/Most Mail Hour.png'></p>
+<p><img src = 'CodePics/Most Mail Hour.png'></p>
 
 <br>
 
@@ -824,7 +824,7 @@ Enter file name: mbox-long.txt
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/Compute%20values%20within%20file.py)*
 
-<p><img src = 'Snap Shots/Question/Expressions/Compute values within file.png'></p>
+<p><img src = 'CodePics/Expressions/Compute values within file.png'></p>
 
 <br>
 
@@ -860,7 +860,7 @@ Enter file name: mbox.txt
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/Highest%20Email.py)*
 
-<p><img src = 'Snap Shots/Question/Expressions/Highest Email.png'></p>
+<p><img src = 'CodePics/Expressions/Highest Email.png'></p>
 
 <br>
 
@@ -901,7 +901,7 @@ Numeber of email id's:  746
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/Total.py)*
 
-<p><img src = 'Snap Shots/Question/Expressions/Total.png'></p>
+<p><img src = 'CodePicsn/Expressions/Total.png'></p>
 
 <br>
 
@@ -939,3 +939,6 @@ Enter file name: regex_sum_163439.txt
 ###### Output:
 ```
 297017
+```
+
+-----

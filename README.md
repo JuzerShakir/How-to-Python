@@ -28,6 +28,7 @@
 - [Expressions](#expressions)
   - [Compute values within file](#18-compute-values-within-file)
   - [Highest Emails](#19-highest-emails)
+  - [Finding Number](#20-finding-number)
 
 ----
 
@@ -891,3 +892,50 @@ Numeber of email id's:  746
 *[Back to Top](#table-of-contents)*
 
 ---
+
+#### 20. Finding Number
+**Q. Extract all the numbers in a file and compute the sum of the numbers.**
+***[File 1](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/regex_sum_42.txt) and [File 2](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/regex_sum_163439.txt)***
+
+<br>
+
+*[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/Total.py)*
+
+<p><img src = 'Snap Shots/Question/Expressions/Total.png'></p>
+
+<br>
+
+**Scenario 1:**
+
+###### Input:
+```
+Enter file name: ...
+```
+
+###### Output:
+```
+No such file found! Try again!
+```
+
+**Scenario 2:**
+
+###### Input:
+```
+Enter file name: regex_sum_42.txt
+```
+
+###### Output:
+```
+445833
+```
+
+**Scenario 3:**
+
+###### Input:
+```
+Enter file name: regex_sum_163439.txt
+```
+
+###### Output:
+```
+297017

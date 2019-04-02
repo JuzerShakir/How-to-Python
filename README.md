@@ -817,7 +817,28 @@ Enter file name: mbox-long.txt
 
 ---
 
-### Expressions
+### Regular Expressions
+
+Regular expressions cheat sheet:
+
+|    Regular Expressions |    Description                           |
+| ---------------------- | ---------------------------------------- |
+|    ^                   |    Matches the beginning of a line       |
+|    $                   |    Matches the end of the line           |
+|    .                   |    Matches any character                 |
+|    \s                  |    Matches Whitespace                    |
+|    \S                  |    Matches any non-whitespace character  |
+|     *                  | Repeats a character zero or more times   |
+|     *?                 | Repeats a character zero or more times (Non-Greedy) |
+|      +                 | Repeats a character one or more times    |
+|      +?                | Repeats a character one or more times  (Non-Greedy) |
+|  [aeiou]               | Matches a single character in the listed set|
+|     [^XYZ]             | Matches a single character not in the listed set|
+|     [a-z0-9]           | The set of characters can include a range |
+|      (                 | Indicates where string extraction is to start |
+|       )                | Indicates where string extraction is to end |
+
+
 #### 18. Compute values within file
 **Q. Sum up all *'X-DSPAM-Confidence'* values from *[mbox.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/mbox.txt)* file.**
 <br>
@@ -901,7 +922,7 @@ Numeber of email id's:  746
 
 *[Code](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/Total.py)*
 
-<p><img src = 'CodePicsn/Expressions/Total.png'></p>
+<p><img src = 'CodePics/Expressions/Total.png'></p>
 
 <br>
 

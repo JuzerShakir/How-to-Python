@@ -99,6 +99,8 @@ Enter Rate: 10
 Pay: 1000.0
 ```
 
+*[Back to Top](#table-of-contents)*
+
 ---
 
 ### 4. Gross Pay with Conditions
@@ -187,6 +189,8 @@ Enter Rate: 8
 ```
 Pay: 620.0
 ```
+
+*[Back to Top](#table-of-contents)*
 
 ---
 
@@ -284,6 +288,8 @@ Enter Rate: 9.5
 ```
 Pay: 387.125
 ```
+
+*[Back to Top](#table-of-contents)*
 
 ---
 
@@ -404,6 +410,8 @@ Enter a number: done
 Total of all 8 numeric inputs are 682.0 with an average of 85.25
 ```
 
+*[Back to Top](#table-of-contents)*
+
 ---
 
 #### 10. Min and Max
@@ -497,6 +505,8 @@ Minimum = 5.0 Maximum = 110.0
 ```
 0.8475
 ```
+
+*[Back to Top](#table-of-contents)*
 
 ---
 
@@ -605,6 +615,8 @@ Enter a file name: mbox-long.txt
 ```
 Average spam confidence: 0.7507185185185187
 ```
+
+*[Back to Top](#table-of-contents)*
 
 ---
 
@@ -724,6 +736,8 @@ cwen@iupui.edu
 There were 27 lines in the file with 'From' as the first word
 ```
 
+*[Back to Top](#table-of-contents)*
+
 ----
 
 ### 16. Dictionary
@@ -764,6 +778,8 @@ Enter file name: mbox-long.txt
 ```
 cwen@iupui.edu has most messages of 5
 ```
+
+*[Back to Top](#table-of-contents)*
 
 ---
 
@@ -838,6 +854,9 @@ Regular expressions cheat sheet:
 |      (                 | Indicates where string extraction is to start |
 |       )                | Indicates where string extraction is to end |
 
+*For more information on Regular Expression, visit [here](https://docs.python.org/3/howto/regex.html)*
+
+-----
 
 #### 18. Compute values within file
 **Q. Sum up all *'X-DSPAM-Confidence'* values from *[mbox.txt](https://github.com/JuzerShakir/How-to-Python/blob/master/Expressions/mbox.txt)* file.**
@@ -872,6 +891,8 @@ Enter file name: mbox.txt
 ```
 667.8322999999995
 ```
+
+*[Back to Top](#table-of-contents)*
 
 ---
 
@@ -961,5 +982,7 @@ Enter file name: regex_sum_163439.txt
 ```
 297017
 ```
+
+*[Back to Top](#table-of-contents)*
 
 -----

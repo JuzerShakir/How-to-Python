@@ -3,6 +3,7 @@
 
 ## Table of Contents
 
+- [Installing Python](#installation)
 - [Hello World](#1-hello-world)
 - [Hello User](#2-hello-user)
 - [Compute Gross Pay](#3-compute-gross-pay)
@@ -29,6 +30,11 @@
   - [Compute values within file](#18-compute-values-within-file)
   - [Highest Emails](#19-highest-emails)
   - [Finding Number](#20-finding-number)
+
+----
+
+### Installation
+In order to execute python files, we need to install python. Install the latest version of Python [here](https://www.python.org/downloads/). Once its successfully installed, you're now ready to code and execute commands or files in python.
 
 ----
 
